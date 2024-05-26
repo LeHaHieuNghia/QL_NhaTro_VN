@@ -9,6 +9,7 @@ CLIENT:
   
 SERVER:
 - bun install
+- taskkill /IM node.exe /F
 - bun start
   
 ===============good luck===============
